@@ -13,7 +13,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 18
-        versionName "3.0-beta_20160731_2"
+        versionName "3.0-beta_20171216"
         ndk {
             moduleName "rootcloak"
             cFlags "-fPIC -shared"
